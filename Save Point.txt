@@ -1,3 +1,4 @@
 Re speed run front end and database design
 D1 - 0
-D2 - ?
+D2 - X
+D3 - X
